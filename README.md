@@ -35,7 +35,15 @@ It provides a clear view of performance across time, products, and regions.
 - Built measures for accurate performance tracking
 
 ## 📸 Dashboard Preview
+
+### 🔹 Overview
 ![Overview](images/overview.png)
+
+### 🔹 Filters & Interaction
+![Filters](images/filters.png)
+
+### 🔹 Time Analysis
+![Time Analysis](images/time-analysis.png)
 
 ## ✨ Key Insights
 - Best and worst performing months
@@ -46,4 +54,4 @@ It provides a clear view of performance across time, products, and regions.
 Special thanks to Eng. Mawada for her support throughout the ITI course.
 
 ## 📌 Author
-Raneem Yasser  
+Nouran Yasser 
